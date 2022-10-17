@@ -1,5 +1,3 @@
-# apple-stock-price
-
 <table>
 
 # Code
